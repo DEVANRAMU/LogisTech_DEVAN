@@ -12,7 +12,7 @@ NOTE : In the above folder , where the output screenshots and recordings are sto
 
 Checkbox 1 Implementation (Video File Name) : Has only the binary search part of the project implemented.
 
-3 checkboxes implementation (Video File Name) : Has the binary search , queue implementation and also the fragile constraints of the containers to be loaded.
+3 checkboxes implementation (Video File Name) : Has the binary search , queue implementation along with backtracking and also the fragile constraints of the containers to be loaded.
 
 All 5 Checkboxex (Video File Name) : Has the entire 5 evaluation checkboxes been validated.
 
